@@ -1,1 +1,3 @@
-# community-renewal-2026
+# Community Renewal 2026
+
+Roadmap for TEP
